@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/2022-DCom-Front/static/css/main.1860d5e8.css",
-    "main.js": "/2022-DCom-Front/static/js/main.2927fff7.js",
-    "index.html": "/2022-DCom-Front/index.html",
-    "main.1860d5e8.css.map": "/2022-DCom-Front/static/css/main.1860d5e8.css.map",
-    "main.2927fff7.js.map": "/2022-DCom-Front/static/js/main.2927fff7.js.map"
+    "main.css": "/static/css/main.1860d5e8.css",
+    "main.js": "/static/js/main.5ef45c77.js",
+    "index.html": "/index.html",
+    "main.1860d5e8.css.map": "/static/css/main.1860d5e8.css.map",
+    "main.5ef45c77.js.map": "/static/js/main.5ef45c77.js.map"
   },
   "entrypoints": [
     "static/css/main.1860d5e8.css",
-    "static/js/main.2927fff7.js"
+    "static/js/main.5ef45c77.js"
   ]
 }
