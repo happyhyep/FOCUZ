@@ -7,11 +7,12 @@ import { Routes, Route } from 'react-router-dom';
 import routes from './components/Common/Routes';
 import { fetchUserInfo } from './store/user';
 import { useThemeColor } from './Context/theme';
+import { tempUser } from './store/temp/tempUserData';
 
 function App() {
     const theme = useThemeColor();
-    const [isLoggedIn, setIsLoggedIn] = useState(false);
-    const [user, setUser] = useState(null);
+    const [isLoggedIn, setIsLoggedIn] = useState(true); // false로 수정해야함 (8/23)
+    const [user, setUser] = useState(tempUser); // null로 수정해야함 (8/23)
 
     useEffect(() => {
         fetchUserInfo(2).then((res) => {
