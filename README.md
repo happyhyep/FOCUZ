@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/103382269/190842012-f58ede8c-3c0d-4284-8a73-e6508763bc12.png" width="150">
-    <h3 align="center">FOCUZ :: 공부 집중시간 스터디 앱</h3>
+    <h3 align="center">FOCUZ :: 캠스터디 웹사이트</h3>
     <p align="center">2022 경희대학교 소프트웨어융합대학 동아리 대항전 우승 !</p>
 </div>
 
