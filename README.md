@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/103382269/190842012-f58ede8c-3c0d-4284-8a73-e6508763bc12.png" width="150">
-    <h3 align="center">FOCUZ :: 캠스터디 웹사이트</h3>
-    <p align="center">2022 경희대학교 소프트웨어융합대학 동아리 대항전 우승 !</p>
+    <img src="https://user-images.githubusercontent.com/103382269/190842012-f58ede8c-3c0d-4284-8a73-e6508763bc12.png" width="300">
+    <h2 align="center">FOCUZ :: 캠스터디 웹사이트</h2>
+    <h4><a href="https://youtu.be/R3eQ7q4EQNo">데모 영상 youtube 바로가기</a></h4>
 </div>
 
 ### Contents
@@ -12,9 +12,9 @@
     <li><a href="#-main-feature">Main Feature</a></li> 
     <li><a href="#-page">Page</a></li> 
     <li><a href="#-architecture">Architecture</a></li> 
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#-contributing">Contributing</a></li>
+    <li><a href="#-license">License</a></li>
+    <li><a href="#-contact">Contact</a></li>
   </ol>
 
 
@@ -113,7 +113,12 @@ java -jar api-0.0.1-SNAPSHOT.jar
 <img src="https://user-images.githubusercontent.com/103382269/190843117-f3e22a7d-7978-4f55-ba13-0c61c95258f6.jpg" width="500"></img>
 </div>
 
-# Contributing
+# 💨 SW festival
+<div align="center">
+<img src="https://user-images.githubusercontent.com/103382269/202696251-04457029-e4c2-4f6c-8ae2-714594e14b10.jpg" width="1000"></img>
+</div>
+
+# 💨 Contributing
 프로젝트에 기여하고 싶으신 분들은 아래 절차를 따라주시기 바랍니다.
 ```
     1. 프로젝트 fork
@@ -126,13 +131,14 @@ java -jar api-0.0.1-SNAPSHOT.jar
 
 ```
 pull request 포함 문의사항은 [📧contact](#contact) 으로 연락 부탁드립니다.
-# License
+
+# 💨 License
 'FOCUZ 웹페이지' 프로젝트는 MIT License에 따라 배포됩니다.
 자세한 내용은 ```LICENSE.txt```를 참고해주십시오.
 
 Copyright 2022. DCOM 투혜투현. All Rights Reserved.
 
-# Contact
+# 💨 Contact
 - (front) 정혜인 | jhi2359@khu.ac.kr
 - (front) 이혜미 | gkj8963@khu.ac.kr
 - (back) 강다현 | dusdj0813@khu.ac.kr
