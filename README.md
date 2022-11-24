@@ -147,7 +147,7 @@ pull request 포함 문의사항은 [📧contact](#contact) 으로 연락 부탁
 Copyright 2022. DCOM 투혜투현. All Rights Reserved.
 
 # 💨 Contact
-- (front) 정혜인 | jhi2359@khu.ac.kr
-- (front) 이혜미 | gkj8963@khu.ac.kr
 - (back) 강다현 | dusdj0813@khu.ac.kr
 - (back) 김나현 | knh4769@khu.ac.kr
+- (front) 이혜미 | gkj8963@khu.ac.kr
+- (front) 정혜인 | jhi2359@khu.ac.kr
