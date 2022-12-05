@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/103382269/190842012-f58ede8c-3c0d-4284-8a73-e6508763bc12.png" width="300">
-    <h2 align="center">FOCUZ :: 캠스터디 웹사이트 - frontend</h2>
+    <h2 align="center">FOCUZ :: 캠스터디 웹사이트</h2>
     <h4><a href="https://github.com/dcom-khu/focuz-api-server">backend github 바로가기</a></h4>
     <h4><a href="https://youtu.be/R3eQ7q4EQNo">데모 영상 youtube 바로가기</a></h4>
 </div>
@@ -152,4 +152,4 @@ Copyright 2022. DCOM 투혜투현. All Rights Reserved.
 - (back) 김나현 | knh4769@khu.ac.kr
 - (front) 이혜미 | gkj8963@khu.ac.kr
 - (front) 정혜인 | jhi2359@khu.ac.kr
-- (back-mento) 박민재 | sobu0715@gmail.com
+- (PM) 박민재 | sobu0715@gmail.com
